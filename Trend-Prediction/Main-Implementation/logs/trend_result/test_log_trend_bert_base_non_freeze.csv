@@ -1,0 +1,2 @@
+,Batch,Max Token,Model,LR,Loss func,Test. Loss,Test. AUC,F1 score,Recall,Precision,Accuracy
+0,16,30,bert-large-uncased,2e-05,bce_loss,0.23313960433006287,0.9326691268543846,0.7746728623136155,0.7404042508831802,0.8392120354196487,0.8769469100653157

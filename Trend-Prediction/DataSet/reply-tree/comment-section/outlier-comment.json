@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "content": "I hate you Zad68 unblock me you stupid motherfucker",
+    "replies": [
+        {
+            "id": 2,
+            "content": "Really good contributor? Bullshit. The cabal disagrees, and they are in control",
+            "replies": [],
+            "score": 0,
+            "index": 9,
+            "user": {
+                "image": {
+                    "png": "./assets/images/avatars/user9.png",
+                    "webp": "./assets/images/avatars/user9.webp"
+                },
+                "username": "realistamerican035"
+            },
+            "createdAt": "22 Dec, 2023 10:04 PM",
+            "comment_id": 1,
+            "replyingTo": "abazner"
+        },
+        {
+            "id": 3,
+            "content": "Thanks a lot asshole! You got me blocked you fucking asshole!!!",
+            "replies": [],
+            "score": 0,
+            "index": 6,
+            "user": {
+                "image": {
+                    "png": "./assets/images/avatars/user6.png",
+                    "webp": "./assets/images/avatars/user6.webp"
+                },
+                "username": "deadeye249"
+            },
+            "createdAt": "22 Dec, 2023 06:55 PM",
+            "comment_id": 1,
+            "replyingTo": "abazner"
+        },
+        {
+            "id": 4,
+            "content": "Would you believe it.. This frenchie threatens to ban me because I talk badly upon Foie Gras. I already said once that this page is protected by lobbyists. That includes frog eaters.",
+            "replies": [],
+            "score": 0,
+            "index": 1,
+            "user": {
+                "image": {
+                    "png": "./assets/images/avatars/user1.png",
+                    "webp": "./assets/images/avatars/user1.webp"
+                },
+                "username": "Cisquatch"
+            },
+            "createdAt": "22 Dec, 2023 12:07 PM",
+            "comment_id": 1,
+            "replyingTo": "abazner"
+        },
+        {
+            "id": 5,
+            "content": "If you ram it just right, you can ram it all night!",
+            "replies": [],
+            "score": 0,
+            "index": 10,
+            "user": {
+                "image": {
+                    "png": "./assets/images/avatars/user10.png",
+                    "webp": "./assets/images/avatars/user10.webp"
+                },
+                "username": "whiskytang0foxtr0t"
+            },
+            "createdAt": "22 Dec, 2023 12:42 PM",
+            "comment_id": 1,
+            "replyingTo": "abazner"
+        }
+    ],
+    "score": 0,
+    "index": 10,
+    "user": {
+        "image": {
+            "png": "./assets/images/avatars/user10.png",
+            "webp": "./assets/images/avatars/user10.webp"
+        },
+        "username": "abazner"
+    },
+    "createdAt": "22 Dec, 2023 11:28 AM"
+}
+]
